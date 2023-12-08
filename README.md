@@ -3,7 +3,7 @@ This github repo contains all the code and data necessary to understand and repr
 
 This project was done for the graduate level course  *[Introduction to Deep Learning (MIE1517)](https://www.mie.utoronto.ca/programs/graduate/course-descriptions/#MIE1517H)* at the University of Toronto in Fall 2023.
 The main contributors to this project are
-- [Jensen Zhao](https://github.com/JensenZhaoUT)
+- [Jensen Zhao](www.linkedin.com/in/jensen-zhao)
 - [Riley Moher](https://linktr.ee/rileymomo)
 - [Parnian Azimzadeh](https://www.linkedin.com/in/parnian-azimzadeh)
 
